@@ -89,7 +89,7 @@ No promit command:
 ---
 ## 💡 Insight
 
-Decobri o quanto é vantajoso utilizar o Entity Framework, ele juntamente com o .NET são como companheiros leais. Também não posso deixar de ressaltar a facilidade e inserir esse framework e sua alta abstração o que o poder de ter suporte para diversos tipos de banco de dados. Contudo, recomendo a todos o estudo não somente do .NET como do Entity Framework.
+Decobri o quanto é vantajoso utilizar o Entity Framework, ele juntamente com o .NET são como companheiros leais. Também não posso deixar de ressaltar a facilidade e inserir esse framework e sua alta abstração o que dá a ele o poder de ter suporte para diversos tipos de banco de dados. Contudo, recomendo a todos o estudo não somente do .NET, mas também do Entity Framework.
 
 ---
 
